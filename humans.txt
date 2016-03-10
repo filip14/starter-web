@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Filip Popovic     filip@gmail.com   @fp14
 
 # THANKS
 
