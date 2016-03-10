@@ -4,7 +4,8 @@ This is a sample website project for showing how to use GitHub
 
 This is example to show different parts of the Git repositoruy and various commands using a web project
 ##Purpose
-
+As stated above the main purpose is to provide simple examples for Git training demos
 ##How To Contribute
 
 ##Deployment
+This is a simple web project, deployment can be on any web erver or even local file system
