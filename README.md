@@ -10,6 +10,7 @@ As stated above the main purpose is to provide simple examples for Git training 
 please fork this repo and then issue Pull Request for review
 ##Deployment
 This is a simple web project, deployment can be on any web erver or even local file system
+OVO JE FILIP OPET
 
 ###Copyright
 
