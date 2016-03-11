@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a sample website project for showing how to use GitHub
-Adding a line for REBASING EXAMPLE
+Adding a line for REBASING EXAMPLE, then more changes from myfeaturebranch too
 ##Introduction
 
 This is example to show different parts of the Git repositoruy and various commands using a web project
