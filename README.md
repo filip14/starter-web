@@ -14,4 +14,4 @@ OVO JE FILIP OPET
 
 ###Copyright
 
-2016 copyright
+2016 copyright. All rights reserverd
